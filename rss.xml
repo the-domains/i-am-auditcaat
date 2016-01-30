@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[I-am-AuditCAAT]]></title>
         <description><![CDATA[I-am-AuditCAAT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-am-auditcaat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 10:20:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 10:21:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-am-auditcaat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Basics:]]></title>
+            <description><![CDATA[<article><h1>The Basics:</h1><p>- Our CAAT automatically selects the transactions to Audit</p></article>]]></description>
+            <link>https://thegrid.ai/i-am-auditcaat/the-basics/index.html</link>
+            <guid isPermaLink="false">1d70c120-c0a9-466b-bc3e-22f8b7ccb571</guid>
+            <pubDate>Sat, 30 Jan 2016 10:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/769b4a82-5f33-40bc-9ded-5a87724eb391.jpg">]]></description>
-            <link>undefined86754d90-ab11-499f-8c7d-86c7d13b02cf/index.html</link>
+            <link>https://thegrid.ai/i-am-auditcaat/86754d90-ab11-499f-8c7d-86c7d13b02cf/index.html</link>
             <guid isPermaLink="false">86754d90-ab11-499f-8c7d-86c7d13b02cf</guid>
             <pubDate>Sat, 30 Jan 2016 10:20:28 GMT</pubDate>
         </item>
