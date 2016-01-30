@@ -1,0 +1,28 @@
+name: I-am-AuditCAAT
+favicon: null
+layout_spectrum: 0.6288556151557714
+typography_spectrum: 0.1286512811202556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.939249950228259
+  lightness: 0.7592811400536448
+  saturation: 0.5367747831624001
+  rhythmicContrast: 0.6771989094559103
+purpose: []
